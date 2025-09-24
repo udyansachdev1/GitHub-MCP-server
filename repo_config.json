@@ -1,4 +1,16 @@
 {
-  "owner": "udyansachdev1",
-  "repo": "GitHub-MCP-server"
+  "repositories": [
+    {
+      "owner": "udyansachdev1",
+      "repo": "GitHub-MCP-server"
+    },
+    {
+      "owner": "udyansachdev1", 
+      "repo": "graph_rag"
+    },
+    {
+      "owner": "udyansachdev1",
+      "repo": "RAG-and-CLIP-Retrieval-System"
+    }
+  ]
 }
