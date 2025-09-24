@@ -2,22 +2,7 @@
 
 Turn natural language into GitHub actions. Gemini GitHub Assistant pairs Google's Gemini model with a Model Context Protocol (MCP) server so you can ask questions and perform repo operations (view files, create issues, list commits, and more) directly from your terminal — fast, conversational, and secure.
 
-<!--
-Placeholder for CLI Q&A screenshots:
-Add screenshots of questions and answers you get from running the CLI here.
-Create a `docs/screenshots/` directory and add images, then reference them below.
-
-Example:
-![CLI Q&A example 1](docs/screenshots/qa_1.png)
--->
-
-
-
-<!--
-Place your screenshots under `docs/screenshots/` and add Markdown links above.
-Example:
-![Q&A 1](docs/screenshots/qa_1.png)
--->
+![alt text](https://github.com/udyansachdev1/GitHub-MCP-server/img/1.png)
 
 ---
 
